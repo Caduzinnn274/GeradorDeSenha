@@ -1,6 +1,6 @@
-from interface import * #Importa funções do arquivo "interface.py"
-from random import choice #Importa função "choice" da biblioteca "random"
-from time import sleep #Importa função "sleep" da biblioteca "time"
+from interface import * 
+from random import choice
+from time import sleep
 
 senha = [] #Lista da senha
 
